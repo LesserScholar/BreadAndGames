@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SkillSets>
+  <SkillSet id="custombattle_commander_13_template_skills">
+    <skill id="Athletics"
+           value="90" />
+    <skill id="Bow"
+           value="100" />
+    <skill id="OneHanded"
+           value="100" />
+    <skill id="Polearm"
+           value="100" />
+    <skill id="Riding"
+           value="160" />
+    <skill id="Throwing"
+           value="100" />
+    <skill id="TwoHanded"
+           value="100" />
+    <skill id="Tactics"
+           value="70" />
+  </SkillSet>
+</SkillSets>

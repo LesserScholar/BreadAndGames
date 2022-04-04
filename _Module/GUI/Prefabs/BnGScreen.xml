@@ -1,0 +1,10 @@
+<Prefab>
+    <Window>
+        <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent">
+            <Children>
+
+                <Standard.DialogCloseButtons Parameter.CancelButtonAction="ExecuteCancel" Parameter.CancelButtonText="Cancel" Parameter.DoneButtonAction="ExecuteDone" Parameter.DoneButtonText="Done" />
+            </Children>
+        </Widget>
+    </Window>
+</Prefab>
